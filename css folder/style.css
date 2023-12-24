@@ -1,0 +1,38 @@
+.model
+{
+    background-color: rgba(0, 0, 0, 0.6);
+    display: none;
+}
+
+.model-img
+{
+    width: 80%;
+    max-width: 750px;
+    height: 80%;
+}
+
+.exit{
+    font-size: 40px;
+    position: absolute;
+    top: 0;
+    right: 14%;
+    color: crimson;
+}
+
+.arrow
+{
+position: absolute;
+top: 48%;
+left: 26%;
+font-size: 30px;
+color: coral;
+}
+
+.arrow2{
+    font-size: 30px;
+    position: absolute;
+top: 48%;
+right: 26%;
+font-size: 30px;
+color: coral;
+}
